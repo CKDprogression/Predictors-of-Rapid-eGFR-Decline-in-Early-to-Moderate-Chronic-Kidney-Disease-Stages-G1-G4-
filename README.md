@@ -1,7 +1,7 @@
 # Predictors-of-Rapid-eGFR-Decline-in-Early-to-Moderate-Chronic-Kidney-Disease-Stages-G1-G4-
 This repository contains the cleaned and annotated code used for the manuscript: Predictors of Rapid eGFR Decline in Early to Moderate Chronic Kidney Disease (Stages G1–G4): Insights from a Real-World Thai Cohort Incorporating KDIGO 2024 Guidelines.
 
- `baseline and lab data.csv`  
+- `baseline and lab data.csv`  
   Contains baseline demographic and laboratory results. All records are fully anonymized. This dataset represents values before multiple imputation.
 
 - `longitudinal_creatinine.csv`  
